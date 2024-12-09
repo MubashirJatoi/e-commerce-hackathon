@@ -12,12 +12,12 @@ function Navbar() {
                 <Image className="cursor-pointer" src={Nike} alt="nike"></Image>
             </div>
             <div className="flex text-[15px] ml-[130px] font-[600] gap-6">
-                <p className="cursor-pointer">New & Featured</p>
-                <p className="cursor-pointer">Men</p>
-                <p className="cursor-pointer">Women</p>
-                <p className="cursor-pointer">Kids</p>
-                <p className="cursor-pointer">Sale</p>
-                <p className="cursor-pointer">SNKRS</p>
+                <p className="cursor-pointer hover:underline">New & Featured</p>
+                <p className="cursor-pointer hover:underline">Men</p>
+                <p className="cursor-pointer hover:underline">Women</p>
+                <p className="cursor-pointer hover:underline">Kids</p>
+                <p className="cursor-pointer hover:underline">Sale</p>
+                <p className="cursor-pointer hover:underline">SNKRS</p>
             </div>
             <div className="mt-[-10px] mr-[-120px]">
                 <Image className="cursor-pointer relative top-[29px] left-[15px]" src={Search} alt="search"></Image>

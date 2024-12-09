@@ -8,7 +8,7 @@ function Header() {
                 <Image src={Logo} alt="logo"></Image>
             </div>
             <div>
-                <p className="text-[13px] cursor-pointer text-center w-[146.86px] h-[26px] bg-[#FFFFFF] ml-[400px] font-[500] text-[#111111]">Skip to main content</p>
+                <p className="text-[13px] cursor-pointer flex items-center pb-[3px] justify-center hover:rounded-[8px] w-[146.86px] h-[26px] hover:bg-black text-center hover:text-[#FFFFFF] bg-[#FFFFFF] ml-[400px] font-[500] text-[#111111]">Skip to main content</p>
             </div>
             <div className="flex gap-5">
                 <p className="text-[11px] font-[500] text-[#111111] cursor-pointer hover:underline">Find a Store</p>
