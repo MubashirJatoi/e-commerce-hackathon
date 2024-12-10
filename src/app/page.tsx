@@ -17,7 +17,6 @@ import Pic1 from "../../public/Images/pic1.png"
 import Pic2 from "../../public/Images/pic2.png"
 import Pic3 from "../../public/Images/pic3.png"
 import Link from "next/link";
-import Shop from "./shop/page";
 
 export default function Home() {
     return(

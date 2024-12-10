@@ -24,8 +24,8 @@ function Navbar() {
                 <input className="w-[180px] pl-[50px] bg-[#F5F5F5] h-[40px] rounded-[100px]" type="text" placeholder="Search"/>
             </div>
             <div className="flex gap-5">
-            <Image className="cursor-pointer" src={Like} alt="like"></Image>
-            <Image className="cursor-pointer" src={Buy} alt="buy"></Image>
+            <Image className="cursor-pointer hover:rounded-[4px] hover:bg-[#dddbdb]" src={Like} alt="like"></Image>
+            <Image className="cursor-pointer hover:rounded-[4px] hover:bg-[#dddbdb]" src={Buy} alt="buy"></Image>
             </div>
             </div>
         </div>
