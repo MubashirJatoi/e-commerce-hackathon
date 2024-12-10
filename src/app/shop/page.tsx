@@ -829,6 +829,7 @@ function Shop () {
                     </div>
                 </div>
             </div>
+            </div>
     );
 };
 
