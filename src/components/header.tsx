@@ -6,7 +6,9 @@ function Header() {
     return(
         <div className="w-[100%] h-[36px] items-center bg-[#F5F5F5] flex justify-between pl-[48px] pr-[48px]">
             <div className="cursor-pointer">
-                <Image src={Logo} alt="logo"></Image>
+                <Link href={"/"}>
+                    <Image src={Logo} alt="logo"></Image>
+                </Link>
             </div>
             <div>
             <Link href={"/shop"}>
