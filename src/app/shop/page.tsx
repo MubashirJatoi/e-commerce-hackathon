@@ -72,7 +72,6 @@ import Circlee from "../../../public/Images/circlee.png"
 
 function Shop () {
     return(
-<<<<<<< HEAD
         <div className="mt-[80px]">
             <div className="flex justify-between items-start mb-[30px]">
                 <h3 className="text-[24px] ml-[30px] font-[600px] ">New (500)</h3>
@@ -830,11 +829,7 @@ function Shop () {
                     </div>
                 </div>
             </div>
-=======
-        <div>
-            <p>Working on this page right now</p>
->>>>>>> e3bde955ba4571e2eec5586d17705c558f0a0e93
-        </div>
+            </div>
     );
 };
 
